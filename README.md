@@ -15,7 +15,6 @@ To design, build, and evaluate a **multi-class classification model** that predi
 - `NSAP.ipynb` – Jupyter Notebook with data exploration, preprocessing, model building, and evaluation.
 - `Social Welfare Schemes.csv` – Dataset containing applicant details and scheme information.
 - `Social_Welfare_Schemes.pkl` – Pickled version of the dataset for faster loading.
-- `NSAP_Project_Description.pdf` – Project description in PDF format.
 - `README.md` – You are here.
 
 ## Dataset
